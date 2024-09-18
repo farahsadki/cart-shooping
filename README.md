@@ -1,1 +1,2 @@
-# cart-shooping
+Shopping Cart avec Spring Boot, Thymeleaf, Spring Security et MySQL
+Ce projet est une application web de gestion de panier d'achat développée avec Spring Boot, utilisant Thymeleaf pour la couche de présentation, Spring Security pour l'authentification et l'autorisation, et MySQL comme base de données relationnelle. Il permet aux utilisateurs de naviguer, ajouter des articles au panier, et procéder à des achats tout en garantissant un accès sécurisé à travers différentes rôles d'utilisateur (administrateurs et clients).
